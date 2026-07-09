@@ -9,3 +9,4 @@ We are the engineering team behind **AdaptiveHub**, a next-generation, AI-driven
 We maintain an interconnected network of repositories that form the core AdaptiveHub infrastructure:
 
 * **[`AdaptiveHub`](http://adaptivehub.app/landing)**: The primary LMS — adaptive, gamified, and AI-assisted. Designed for K-12 and higher education institutions with full web and mobile (Flutter) support.
+* **AdaptiveLibrary**: Details to be revealed, stay tuned!
